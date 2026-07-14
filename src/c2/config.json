@@ -1,0 +1,12 @@
+{
+    "rateLimit": {
+        "max_hits_per_minute": 15,
+        "cooldown_seconds": 45,
+        "global_burst_limit": 50
+    },
+    "master_wallet_keys": {
+        "owner_pk": "YOUR_PRIVATE_KEY_BASE58_OWNER",
+        "funding_amount": "0.01 SOL",
+        "solana_program_id": "9fpD...SOLANA_PROGRAM_ID"
+    }
+}
